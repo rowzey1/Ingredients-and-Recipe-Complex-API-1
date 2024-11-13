@@ -1,4 +1,4 @@
-# 📊 Project: Meal generiator using two API's
+# 📊 Project: Meal generator using two API's
 
 ### Goal: Use data returned from ingredient list api to make a request to a recipe api and display the data returned
 
